@@ -36,8 +36,7 @@ The company specifically wants to know:
 - Variables that are significant in predicting the demand for shared bikes are <b>'yr', 'atemp', 'casual', 'rain_or_snow'</b>
 - 75% of the data fit the regression model
 - Equation of our best-fit line is:
-  
-  $ cnt = 0.21  \times  yr + 0.46  \times  atemp + 0.32 \times casual - 0.18 \times rain\_or\_snow  $
+  <i><b>cnt = 0.21 x  yr + 0.46  x  atemp + 0.32 x casual - 0.18 x rain_or_snow </b></i>
 
 
 ## Contact
