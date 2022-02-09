@@ -4,7 +4,7 @@
 * [Problem Statement](#problem-statement)
 * [Steps](#steps)
 * [Technologies Used](#technologies-used)
-
+* [Conclusion](#conclusion)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -30,8 +30,14 @@ The company specifically wants to know:
 ## Technologies Used
 - Linear Regression using sklearn, statsmodels
 
-
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Conclusion
+- Variables that are significant in predicting the demand for shared bikes are <b>'yr', 'atemp', 'casual', 'rain_or_snow'</b>
+- 75% of the data fit the regression model
+- Equation of our best-fit line is:
+  
+  $ cnt = 0.21  \times  yr + 0.46  \times  atemp + 0.32 \times casual - 0.18 \times rain\_or\_snow  $
 
 
 ## Contact
