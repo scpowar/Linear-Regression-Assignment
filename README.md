@@ -40,7 +40,7 @@ The company specifically wants to know:
 
 
 ## Contact
-Created by @scpowar - feel free to contact me!
+Created by [@scpowar](https://github.com/scpowar) - feel free to contact me!
 
 
 <!-- Optional -->
